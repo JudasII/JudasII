@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JudasII/Juan Da for the friends
-- 👀 I’m interested in Artificila Iteligence, Internet of Things, algotithms and CS theory
+- 👀 I’m interested in Artificial Iteligence, Internet of Things, algotithms and CS theory
 - 🌱 I’m currently learning python, AI and IOT
 - 💞️ I’m looking to collaborate on anything related to CS theory, AI and IOT 
 - 📫 How to reach me: 
